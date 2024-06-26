@@ -1,4 +1,4 @@
-# Deep learning Foundations and Applications Course Project
+# Deep Learning Foundations and Applications Course Project
 
 This repository contains a project for image classification using the CIFAR-10 dataset. The project implements a Convolutional Neural Network (CNN) and a small Residual Network (ResNet) in PyTorch, and evaluates their performance with different optimizers and regularizers.
 
